@@ -10,3 +10,9 @@ ul.sc-accountInformation li { color:#000 !important; }
 }
 
 .sc-quickbar-item { color: #000 !important; }
+
+.sc-ribbon { background-color: #fcfcfc; }
+
+.ui-widget-header { background-color: #aaa; } 
+.sc-dialogWindow-header { background-color: #aaa; }
+.scChromeName { background-color: #aaa; }
