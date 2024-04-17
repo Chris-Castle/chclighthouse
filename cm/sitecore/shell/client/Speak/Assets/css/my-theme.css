@@ -1,22 +1,12 @@
-.sc-globalHeader-content {
-    background-color: #e2e2e2;
-}
+.sc-globalHeader-content { background-color: #e2e2e2 !important; }
+.sc-globalheader-appName { color:#000 !important; }
+.sc-globalheader-appName{ color:#000 !important; }
 
-.sc-globalheader-appName {
-    color:#000;
-}
-
-.sc-globalheader-appName{
-    color:#000;
-}
-
-ul.sc-accountInformation li {
-    color:#000;
-}
+ul.sc-accountInformation li { color:#000 !important; }
 
 .sc-quickbar {
-    background-color: #e9e9e9;
-    background: #e9e9e9;
+    background-color: #e9e9e9 !important;
+    background: #e9e9e9 !important;
 }
 
-.sc-quickbar-item { color: #000; }
+.sc-quickbar-item { color: #000 !important; }
