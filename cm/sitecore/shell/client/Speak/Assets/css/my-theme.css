@@ -23,3 +23,16 @@ ul.sc-accountInformation li { color:#000 !important; }
     background: transparent !important;
   }
   .sc-ribbon .pressed{ background: #E2E0F9 !important; }
+
+
+.sc .sc-messageBar .alert.alert-info {
+    color: #5448D9 !important;
+    background-color: #e2e0f9 !important;
+}
+.sc .sc-messageBar .alert-info .alert-ico-background {
+    background-color: #5448D9 !important;
+}
+.sc .sc-messageBar .alert-info .close {
+    color: #5448D9 !important;
+}
+
