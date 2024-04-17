@@ -11,8 +11,8 @@ ul.sc-accountInformation li { color:#000 !important; }
 
 .sc-quickbar-item { color: #000 !important; }
 
-.sc-ribbon { background-color: #fcfcfc; }
+.sc-ribbon { background-color: #fcfcfc !important; }
 
-.ui-widget-header { background-color: #aaa; } 
-.sc-dialogWindow-header { background-color: #aaa; }
-.scChromeName { background-color: #aaa; }
+.ui-widget-header { background-color: #aaa !important; } 
+.sc-dialogWindow-header { background-color: #aaa !important; }
+.scChromeName { background-color: #aaa !important; }
