@@ -16,8 +16,7 @@ ul.sc-accountInformation li { color:#000 !important; }
 
 .scChromeName { background-color: #aaa !important; }
 
-.sc-ribbon .sc-chunk-button-small:hover { background: #E2E0F9 !important; }
-.sc-ribbon .sc-chunk-button:hover { background: #E2E0F9 !important; } 
+.sc-ribbon .sc-chunk-button-small:hover { background: #ededed !important; }
+.sc-ribbon .sc-chunk-button:hover { background: #ededed !important; } 
 
-.sc-chunk-button-small:hover { background: #E2E0F9 !important; }
-.sc-chunk-button:hover { background: #E2E0F9 !important; } 
+.sc-ribbon .pressed{ background: #E2E0F9 !important; }
