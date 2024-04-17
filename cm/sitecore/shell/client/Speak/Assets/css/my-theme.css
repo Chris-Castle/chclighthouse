@@ -13,6 +13,8 @@ ul.sc-accountInformation li { color:#000 !important; }
 .sc-ribbon { background-color: #fcfcfc !important; }
 
 .sc-dialogWindow-header { background-color: #aaa !important; }
-.scFormDialogHeader { background-color: #aaa !important; } 
 
 .scChromeName { background-color: #aaa !important; }
+
+.sc-ribbon .sc-chunk-button-small:hover { background: red; }
+.sc-ribbon .sc-chunk-button:hover { background: red; } 
