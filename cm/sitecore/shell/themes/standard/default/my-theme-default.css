@@ -18,3 +18,7 @@
 }
 
 .scContentButton {color: #5448d9 !important;}
+
+
+a.scRibbonEditorTabActive { background-color: #5448d9 !important; }
+.scEditorSections { background-color: #f6f6f6 !important;} 
