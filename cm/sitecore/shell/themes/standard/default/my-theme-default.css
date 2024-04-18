@@ -4,12 +4,12 @@
 }
 
 .scMessageBar.scInformation {
-    background-color: #AADBEE;
-    color: #185F7B;
+    background-color: #AADBEE  !important;
+    color: #185F7B  !important;
 }
 
-.scRibbon { background-color: #fcfcfc !important }
-.scRibbon a.scRibbonNavigatorButtonsNormal { color: #000 !important }
+.scRibbon { background-color: #fcfcfc !important; }
+.scRibbon a.scRibbonNavigatorButtonsNormal { color: #000 !important; }
 
 .scEditorSectionCaptionExpanded {
     border-left: 5px solid #5448d9 !important;
