@@ -1,0 +1,9 @@
+.sc-globalHeader {
+  color: #000 !important;
+  background-color: #e2e2e2 !important;
+}
+
+.scMessageBar.scInformation {
+    background-color: #AADBEE;
+    color: #185F7B;
+}
