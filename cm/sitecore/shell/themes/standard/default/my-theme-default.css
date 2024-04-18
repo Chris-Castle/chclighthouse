@@ -35,11 +35,10 @@ a.scRibbonEditorTabActive {
   background-color: #5448d9 !important;
 }
 
-/* doesn't work yet */
 .scEditorSections {
   background-color: #f6f6f6 !important;
 }
 
 .scContentTreeNodeActive {
-  background-color: #e2e2e2 !important;
+  background-color: #e2e0f9 !important;
 }
