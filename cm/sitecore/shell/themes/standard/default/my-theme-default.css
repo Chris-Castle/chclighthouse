@@ -17,14 +17,15 @@
 
 .scEditorSectionCaptionExpanded {
   border-left: 5px solid #5448d9 !important;
-  background-color: #e2e0f9 !important;
+  /*background-color: #e2e0f9 !important;
   color: #5448d9 !important;
-  border-bottom: 1px solid #5448d9 !important;
+  border-bottom: 1px solid #5448d9 !important;*/
 }
 .scEditorSectionCaptionCollapsed {
-  background-color: #e2e2e2 !important;
+    border-left: 5px solid #e2e0f9 !important;
+  /*background-color: #e2e2e2 !important;
   border-bottom: 1px solid #aaaaaa !important;
-  color: #000 !important;
+  color: #000 !important;*/
 }
 
 .scContentButton {
