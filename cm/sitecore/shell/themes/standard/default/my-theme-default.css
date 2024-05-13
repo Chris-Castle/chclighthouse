@@ -77,6 +77,10 @@ a.scRibbonEditorTabActive {
   background-color: #707070 !important;
 }
 
+.scCollapsed .scSectionCenter {
+background-color: #969696 !important;
+}
+
 .scPaneHeader {
   border-left: 5px solid #5448d9 !important;
 }
