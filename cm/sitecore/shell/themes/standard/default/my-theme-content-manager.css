@@ -15,3 +15,7 @@ a.scSystemMenu:hover {
 .scCaption {
     background-color: #707070 !important;
 }
+
+.scPager {
+    border-top: 2px solid #5448d9 !important;
+}
