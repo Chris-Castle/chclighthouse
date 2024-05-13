@@ -17,9 +17,9 @@
 
 .scEditorSectionCaptionExpanded {
   border-left: 5px solid #5448d9 !important;
-  /*background-color: #e2e0f9 !important;
-  color: #5448d9 !important;
-  border-bottom: 1px solid #5448d9 !important;*/
+  background-color: #707070 !important; 
+  border-bottom: 1px solid #707070 !important;
+  /*color: #5448d9 !important;*/
 }
 .scEditorSectionCaptionCollapsed {
     border-left: 5px solid #e2e0f9 !important;
@@ -42,4 +42,8 @@ a.scRibbonEditorTabActive {
 
 .scContentTreeNodeActive {
   background-color: #e2e0f9 !important;
+}
+
+.scTabActive {
+  background-color: #5448d9 !important;
 }
