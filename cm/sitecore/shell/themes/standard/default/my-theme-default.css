@@ -83,11 +83,11 @@ a.scRibbonEditorTabActive {
 
 .scSectionCenter {
   border-left: 5px solid #5448d9 !important;
-  /*background-color: #707070 !important;*/
+  /*background-color: #707070 !important;    <-- This should be changed in the base file. */
 }
 
 .scCollapsed .scSectionCenter {
-  /*background-color: #969696;*/
+  /*background-color: #969696 !important;    <-- This should be changed in the base file. */
   border-left: 5px solid #e2e0f9 !important;
 }
 
