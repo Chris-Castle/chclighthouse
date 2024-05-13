@@ -11,9 +11,14 @@
 .scRibbon {
   background-color: #fcfcfc !important;
 }
+
 .scRibbon a.scRibbonNavigatorButtonsNormal {
   color: #000 !important;
-} 
+}
+
+.scRibbon a.scRibbonNavigatorButtonsActive,.scRibbon a.scRibbonNavigatorButtonsContextualActive {
+  background-color: #dbdbdb !important; 
+}
 
 .scEditorSectionCaptionExpanded {
   border-left: 5px solid #5448d9 !important;
