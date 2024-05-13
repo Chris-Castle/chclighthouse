@@ -1,0 +1,8 @@
+.sc-globalHeader {
+  color: #000 !important;
+  background-color: #e2e2e2 !important;
+}
+
+.sc-global-logo {
+  background: url("/sitecore/shell/Themes/Standard/Images/global_logo_purple.png") !important;
+}

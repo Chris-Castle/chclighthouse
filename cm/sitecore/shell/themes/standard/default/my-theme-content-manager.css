@@ -1,11 +1,13 @@
 a.scSystemMenu {
-    background: url("/sitecore/shell/themes/standard/images/hamburgermenu_purple.png") no-repeat center !important;
+  background: url("/sitecore/shell/themes/standard/images/hamburgermenu_purple.png")
+    no-repeat center !important;
 }
 
 a.scSystemMenu:hover {
-    background: url("/sitecore/shell/themes/standard/images/hamburgermenu_purple.png") no-repeat center !important;
+  background: url("/sitecore/shell/themes/standard/images/hamburgermenu_purple.png")
+    no-repeat center !important;
 }
 
 #EditorTabs {
-    border-bottom: 2px solid #5448d9 !important;
+  border-bottom: 2px solid #5448d9 !important;
 }
