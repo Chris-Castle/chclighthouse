@@ -4,8 +4,8 @@
 }
 
 .scMessageBar.scInformation .scMessageBarIcon {
-  background-image: url(/sitecore/shell/themes/standard/Images/information_blue.png);
-  background-color: #5448d9;
+  /*background-image: url(/sitecore/shell/themes/standard/Images/information_blue.png);*/
+  background-color: #5448d9 !important;
 }
 
 .scRibbon {
