@@ -7,5 +7,5 @@ a.scSystemMenu:hover {
 }
 
 #EditorTabs {
-    border-bottom: 2px solid #5448d9;
+    border-bottom: 2px solid #5448d9 !important;
 }
