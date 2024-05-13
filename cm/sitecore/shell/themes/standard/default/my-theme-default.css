@@ -81,7 +81,16 @@ a.scRibbonEditorTabActive {
   border-left: 5px solid #5448d9 !important;
 }
 
+.scSectionCenter {
+  border-left: 5px solid #5448d9 !important;
+  background-color: #707070 !important;
+}
+
 .scCollapsed .scSectionCenter {
   background-color: #969696;
   border-left:5px solid #e2e0f9 !important;
+}
+
+.scRollover, .scRollover_Hover {
+  color: #5448d9 !important;
 }
