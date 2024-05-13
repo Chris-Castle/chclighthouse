@@ -7,6 +7,11 @@
 .sc-globalheader-appName {
   color: #000 !important;
 }
+
+.sc .sc-global-logo {
+  background: url(/sitecore/shell/client/Speak/Assets/img/Speak/GlobalLogo/global_logo_purple.png) !important;
+}
+
 ul.sc-accountInformation li {
   color: #000 !important;
 }
