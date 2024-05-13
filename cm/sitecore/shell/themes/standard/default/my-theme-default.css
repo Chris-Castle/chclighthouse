@@ -72,3 +72,16 @@ a.scRibbonEditorTabActive {
 .scTabstrip {
   border-bottom: 2px solid #5448d9 !important;
 }
+
+.scWorkBoxMainHeader {
+  background-color: #707070 !important;
+}
+
+.scWorkBoxMainHeader {
+  border-left: 5px solid #5448d9 !important;
+}
+
+.scCollapsed .scSectionCenter {
+  background-color: #969696;
+  border-left:5px solid #e2e0f9 !important;
+}
