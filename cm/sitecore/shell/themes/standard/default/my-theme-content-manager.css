@@ -18,4 +18,9 @@ a.scSystemMenu:hover {
 
 .scPager {
   border-top: 2px solid #5448d9 !important;
+  background-color: #707070 !important;
+}
+
+.scEditorHeader {
+  padding: 20px 15px !important;
 }
